@@ -5,9 +5,8 @@ Machine Learning Projects
     
     Dataset : Breast Cancer Wisconsin on the UCI Respository.
     
-    KNN : Accuracy - 98.57% (Test set)
-                     97.12% (Train set)
+    KNN : Accuracy - 98.57% 
     
-    SVM : Accuracy - 97.85% (Test set)
-                     95.6%  (Train set)
+    SVM : Accuracy - 97.85% 
+                     
                      
