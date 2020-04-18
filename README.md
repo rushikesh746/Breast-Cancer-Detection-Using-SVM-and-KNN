@@ -1,7 +1,4 @@
-# Machine-Learning
-Machine Learning Projects
-
-1)  Breast Cancer Detection Using SVM and KNN
+  Breast Cancer Detection Using SVM and KNN
     
     Dataset : Breast Cancer Wisconsin on the UCI Respository.
     
